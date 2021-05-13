@@ -1,0 +1,11 @@
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\TeamDev2020\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\TeamDev2020\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\TeamDev2020\ClassLibrary\obj\Debug\SharedClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\TeamDev2020\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\TeamDev2020\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\obj\Debug\SharedClassLibrary.csprojAssemblyReference.cache
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\obj\Debug\SharedClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Leanbox\Desktop\IRL\Uni\Year 3\Team Dev Project\Final Deliverable\Final System\ClassLibrary\obj\Debug\ClassLibrary.pdb
